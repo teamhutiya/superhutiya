@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/superhutiya/static/css/main.073c9b0a.css",
+    "main.js": "/superhutiya/static/js/main.68a7dda3.js",
+    "static/js/787.4e2c1702.chunk.js": "/superhutiya/static/js/787.4e2c1702.chunk.js",
+    "static/media/logo.svg": "/superhutiya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/superhutiya/index.html",
+    "main.073c9b0a.css.map": "/superhutiya/static/css/main.073c9b0a.css.map",
+    "main.68a7dda3.js.map": "/superhutiya/static/js/main.68a7dda3.js.map",
+    "787.4e2c1702.chunk.js.map": "/superhutiya/static/js/787.4e2c1702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68a7dda3.js"
+  ]
+}
